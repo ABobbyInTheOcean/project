@@ -1,8 +1,13 @@
-name: dstoolbox
+name: project-env
 channels:
   - conda-forge
   - defaults
 dependencies:
   - ipykernel
+  - python >=3.10
+  - jupyterlab
   - scikit-learn=1.2.1
+  - pandas
+  - matplotlib
+
 prefix: C:\Users\Bobby\miniconda3\envs\dstoolbox
