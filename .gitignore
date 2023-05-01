@@ -1,3 +1,6 @@
 **/*.log
+**/*.png
+**/*.pdf
+**/*.csv
 .DS_Store
 .ipynb_checkpoints
